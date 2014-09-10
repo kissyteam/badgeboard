@@ -34,6 +34,12 @@ projects:
      repo: kissyteam/url
  - modulex-html-parser:
      repo: kissyteam/html-parser
+ - gulp-xtemplate
+ - editor-plugins
+ - kclean
+ - gulp-kclean
+ - kmt
+ 
 
 # list of maintainers, this won't be sorted
 maintainers:
