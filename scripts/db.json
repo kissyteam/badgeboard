@@ -8,6 +8,22 @@
     }
   },
   "projects": {
+    "gulp-kclean": {
+      "description": "kclean gulp plugin",
+      "maintainer": "taojie"
+    },
+    "gulp-xtemplate": {
+      "description": "compile .xtpl file to modulex module",
+      "maintainer": "yiminghe"
+    },
+    "kclean": {
+      "description": "A build tool that converts KISSY module code to standard JavaScript.",
+      "maintainer": "taojie"
+    },
+    "kmt": {
+      "description": "KISSY Module Transform",
+      "maintainer": "taojie"
+    },
     "logger-manager": {
       "description": "manage and generate logger which can log different log info",
       "maintainer": "yiminghe",

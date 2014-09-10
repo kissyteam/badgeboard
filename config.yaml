@@ -35,7 +35,6 @@ projects:
  - modulex-html-parser:
      repo: kissyteam/html-parser
  - gulp-xtemplate
- - editor-plugins
  - kclean
  - gulp-kclean
  - kmt
