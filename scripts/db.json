@@ -34,6 +34,11 @@
       "maintainer": "yiminghe",
       "node": 0.1
     },
+    "modulex-dom": {
+      "description": "dom manipulation across browsers",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-feature": {
       "description": "browser feature detection",
       "maintainer": "yiminghe",
@@ -65,7 +70,7 @@
       "node": 0.1
     },
     "modulex-url": {
-      "description": "url\r ===========",
+      "description": "url resolve and parse",
       "maintainer": "yiminghe",
       "node": 0.1
     },
@@ -87,7 +92,7 @@
     "xtpl": {
       "description": "nodejs wrapper around xtemplate engine",
       "maintainer": "yiminghe",
-      "node": 0.1
+      "node": 0.11
     }
   }
 }

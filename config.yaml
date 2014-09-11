@@ -16,6 +16,8 @@ projects:
  - modulex    
  - xtemplate
  - xtpl
+ - modulex-dom:
+     repo: kissyteam/dom
  - query-selector
  - logger-manager
  - modulex-ua:
