@@ -16,6 +16,7 @@ projects:
  - modulex    
  - xtemplate
  - xtpl
+ - gulp-modulex
  - modulex-dom:
      repo: kissyteam/dom
  - query-selector

@@ -12,6 +12,10 @@
       "description": "kclean gulp plugin",
       "maintainer": "taojie"
     },
+    "gulp-modulex": {
+      "description": "compile, concat and generate dependencies of modulex modules",
+      "maintainer": "yiminghe"
+    },
     "gulp-xtemplate": {
       "description": "compile .xtpl file to modulex module",
       "maintainer": "yiminghe"
