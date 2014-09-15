@@ -43,6 +43,20 @@
       "maintainer": "yiminghe",
       "node": 0.11
     },
+    "modulex-event-base": {
+      "description": "abstract observer and observable",
+      "maintainer": "yiminghe"
+    },
+    "modulex-event-custom": {
+      "description": "custom event register and fire like dom event",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-event-dom": {
+      "description": "event registration and fire across browsers",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-feature": {
       "description": "browser feature detection",
       "maintainer": "yiminghe",

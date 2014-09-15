@@ -29,6 +29,14 @@ projects:
      repo: kissyteam/path
  - modulex-json:
      repo: kissyteam/json
+ - modulex-event-base:
+     repo: kissyteam/event-base
+ - modulex-event-dom:
+     repo: kissyteam/event-dom
+ - modulex-event-custom:
+     repo: kissyteam/event-custom
+ - modulex-json:
+     repo: kissyteam/json
  - modulex-feature:
      repo: kissyteam/feature
  - modulex-util:
