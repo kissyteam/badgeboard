@@ -48,6 +48,16 @@
       "maintainer": "yiminghe",
       "node": 0.1
     },
+    "modulex-anim": {
+      "description": "animation using timer and transition",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-color": {
+      "description": "color parse and format util",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-dom": {
       "description": "dom manipulation across browsers",
       "maintainer": "yiminghe",

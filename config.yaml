@@ -19,6 +19,10 @@ projects:
  - gulp-modulex
  - modulex-dom:
      repo: kissyteam/dom
+ - modulex-anim:
+     repo: kissyteam/anim
+ - modulex-color:
+     repo: kissyteam/color
  - query-selector
  - logger-manager
  - modulex-ua:
