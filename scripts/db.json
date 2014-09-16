@@ -3,11 +3,21 @@
   "//2": "you're free to change it as you like,",
   "//3": "but it will be overwritten on the next build.",
   "maintainers": {
+    "taojie": {
+      "packages": 11
+    },
+    "weekeight": {
+      "packages": 2
+    },
     "yiminghe": {
       "packages": 20
     }
   },
   "projects": {
+    "aggregate-bower": {
+      "description": "aggregate bower modulex modules into modulex_modules folder",
+      "maintainer": "weekeight"
+    },
     "gulp-kclean": {
       "description": "kclean gulp plugin",
       "maintainer": "taojie"
