@@ -49,6 +49,66 @@ projects:
      repo: kissyteam/url
  - modulex-html-parser:
      repo: kissyteam/html-parser
+ - modulex-editor:
+     repo: kissyteam/editor
+ - modulex-navigation-view:
+     repo: kissyteam/navigation-view
+ - modulex-scroll-view:
+     repo: kissyteam/scroll-view
+ - modulex-component:
+     repo: kissyteam/component
+ - modulex-toolbar:
+     repo: kissyteam/toolbar
+ - modulex-split-button:
+     repo: kissyteam/split-button
+ - modulex-tabs:
+     repo: kissyteam/tabs
+ - modulex-tree:
+     repo: kissyteam/tree
+ - modulex-overlay:
+     repo: kissyteam/overlay
+ - modulex-filter-menu:
+     repo: kissyteam/filter-menu
+ - modulex-combobox:
+     repo: kissyteam/combobox
+ - modulex-menubutton:
+     repo: kissyteam/menubutton
+ - modulex-button:
+     repo: kissyteam/button
+ - modulex-menu:
+     repo: kissyteam/menu
+ - modulex-separator:
+     repo: kissyteam/separator
+ - modulex-css:
+     repo: kissyteam/css
+ - modulex-promise:
+     repo: kissyteam/promise
+ - modulex-swf:
+     repo: kissyteam/swf
+ - modulex-stylesheet:
+     repo: kissyteam/stylesheet
+ - modulex-resizable:
+     repo: kissyteam/resizable
+ - modulex-dd:
+     repo: kissyteam/dd
+ - modulex-date-picker:
+     repo: kissyteam/date-picker
+ - modulex-node:
+     repo: kissyteam/node
+ - gregorian-calendar-format:
+     repo: kissyteam/gregorian-calendar-format
+ - gregorian-calendar:
+     repo: kissyteam/gregorian-calendar
+ - modulex-router:
+     repo: kissyteam/router
+ - modulex-io:
+     repo: kissyteam/io
+ - modulex-base:
+     repo: kissyteam/base
+ - modulex-attribute:
+     repo: kissyteam/attribute
+ - modulex-color:
+     repo: kissyteam/color
  - gulp-xtemplate
  - kclean
  - gulp-kclean

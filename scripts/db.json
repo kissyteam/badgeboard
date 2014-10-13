@@ -18,6 +18,16 @@
       "description": "aggregate bower modulex modules into modulex_modules folder",
       "maintainer": "weekeight"
     },
+    "gregorian-calendar": {
+      "description": "gregorian calendar lib on browser and nodejs",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "gregorian-calendar-format": {
+      "description": "format [gregorian-calendar](https://github.com/kissyteam/gregorian-calendar) instance",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "gulp-kclean": {
       "description": "kclean gulp plugin",
       "maintainer": "taojie"
@@ -35,7 +45,7 @@
       "maintainer": "taojie"
     },
     "kmt": {
-      "description": "KISSY Module Transform",
+      "description": "KMT === > KISSY Module Transform",
       "maintainer": "taojie"
     },
     "logger-manager": {
@@ -53,13 +63,57 @@
       "maintainer": "yiminghe",
       "node": 0.11
     },
+    "modulex-attribute": {
+      "description": "attribute management",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-base": {
+      "description": "base class for attribute initialization, life cycle and plugin management",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-button": {
+      "description": "[![button](https://nodei.co/npm/modulex-button.png)](https://npmjs.org/package/modulex-button)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-button.svg)](https://npmjs.org/package/modulex-button)\r [![Build Status](https://secure.travis-ci.org/ki",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-color": {
       "description": "color parse and format util",
       "maintainer": "yiminghe",
       "node": 0.11
     },
+    "modulex-combobox": {
+      "description": "ui combobox",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-component": {
+      "description": "component system",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-css": {
+      "description": "css\r ===",
+      "maintainer": "yiminghe"
+    },
+    "modulex-date-picker": {
+      "description": "date picker based on gregorian-calendar and gregorian-calendar-format",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-dd": {
+      "description": "[![dd](https://nodei.co/npm/modulex-dd.png)](https://npmjs.org/package/modulex-dd)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-dd.svg)](https://npmjs.org/package/modulex-dd)\r [![Build Status](https://secure.travis-ci.org/kissyteam/dd.png?branc",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-dom": {
       "description": "dom manipulation across browsers",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-editor": {
+      "description": "[![editor](https://nodei.co/npm/modulex-editor.png)](https://npmjs.org/package/modulex-editor)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-editor.svg)](https://npmjs.org/package/modulex-editor)\r [![Build Status](https://secure.travis-ci.org/ki",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -82,25 +136,114 @@
       "maintainer": "yiminghe",
       "node": 0.1
     },
+    "modulex-filter-menu": {
+      "description": "[![filter-menu](https://nodei.co/npm/modulex-filter-menu.png)](https://npmjs.org/package/modulex-filter-menu)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-filter-menu.svg)](https://npmjs.org/package/modulex-filter-menu)\r [![Build Status](https:",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-html-parser": {
       "description": "parse html into dom tree",
       "maintainer": "yiminghe",
       "node": 0.1
+    },
+    "modulex-io": {
+      "description": "web io utils",
+      "maintainer": "yiminghe",
+      "node": 0.11
     },
     "modulex-json": {
       "description": "Provides es5 compliant javascript implementation of Json parser for ie6-8.",
       "maintainer": "yiminghe",
       "node": 0.1
     },
+    "modulex-menu": {
+      "description": "ui menu",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-menubutton": {
+      "description": "ui menubutton",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-navigation-view": {
+      "description": "[![navigation-view](https://nodei.co/npm/modulex-navigation-view.png)](https://npmjs.org/package/modulex-navigation-view)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-navigation-view.svg)](https://npmjs.org/package/modulex-navigation-view)\r [![",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-node": {
+      "description": "A jquery like dom manipulation library",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-overlay": {
+      "description": "[![overlay](https://nodei.co/npm/modulex-overlay.png)](https://npmjs.org/package/modulex-overlay)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-overlay.svg)](https://npmjs.org/package/modulex-overlay)\r [![Build Status](https://secure.travis-ci.o",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-path": {
       "description": "utilities for operating file path",
       "maintainer": "yiminghe",
       "node": 0.1
     },
+    "modulex-promise": {
+      "description": "ES6-compatible promise library. Promise/A+ implementation.",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-querystring": {
       "description": "parse and stringify query data",
       "maintainer": "yiminghe",
       "node": 0.1
+    },
+    "modulex-resizable": {
+      "description": "make dom node resizable",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-router": {
+      "description": "browser router like expressjs",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-scroll-view": {
+      "description": "[![scroll-view](https://nodei.co/npm/modulex-scroll-view.png)](https://npmjs.org/package/modulex-scroll-view)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-scroll-view.svg)](https://npmjs.org/package/modulex-scroll-view)\r [![Build Status](https:",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-separator": {
+      "description": "[![separator](https://nodei.co/npm/modulex-separator.png)](https://npmjs.org/package/modulex-separator)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-separator.svg)](https://npmjs.org/package/modulex-separator)\r [![Build Status](https://secure.t",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-split-button": {
+      "description": "[![split-button](https://nodei.co/npm/modulex-split-button.png)](https://npmjs.org/package/modulex-split-button)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-split-button.svg)](https://npmjs.org/package/modulex-split-button)\r [![Build Status](h",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-stylesheet": {
+      "description": "stylesheet manipulation across browsers",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-swf": {
+      "description": "swf manipulation across browsers",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-tabs": {
+      "description": "[![tabs](https://nodei.co/npm/modulex-tabs.png)](https://npmjs.org/package/modulex-tabs)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-tabs.svg)](https://npmjs.org/package/modulex-tabs)\r [![Build Status](https://secure.travis-ci.org/kissyteam/ta",
+      "maintainer": "yiminghe"
+    },
+    "modulex-toolbar": {
+      "description": "[![toolbar](https://nodei.co/npm/modulex-toolbar.png)](https://npmjs.org/package/modulex-toolbar)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-toolbar.svg)](https://npmjs.org/package/modulex-toolbar)\r [![Build Status](https://secure.travis-ci.o",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
+    "modulex-tree": {
+      "description": "ui tree",
+      "maintainer": "yiminghe",
+      "node": 0.11
     },
     "modulex-ua": {
       "description": "ua detector",
@@ -123,9 +266,9 @@
       "node": 0.1
     },
     "xtemplate": {
-      "description": "eXtensible Template Engine lib on browser and nodejs",
+      "description": "[High Speed](https://github.com/kissyteam/xtemplate/tree/master/benchmark/result), eXtensible Template Engine lib on browser and nodejs.\r support async control, inheritance, include, logic expression, custom function and more.",
       "maintainer": "yiminghe",
-      "node": 0.1
+      "node": 0.11
     },
     "xtpl": {
       "description": "nodejs wrapper around xtemplate engine",
