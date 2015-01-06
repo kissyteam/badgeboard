@@ -25,6 +25,8 @@ projects:
      repo: kissyteam/color
  - query-selector
  - logger-manager
+ - modulex-cookie:
+     repo: kissyteam/cookie
  - modulex-ua:
      repo: kissyteam/ua
  - modulex-querystring:
@@ -39,8 +41,6 @@ projects:
      repo: kissyteam/event-dom
  - modulex-event-custom:
      repo: kissyteam/event-custom
- - modulex-json:
-     repo: kissyteam/json
  - modulex-feature:
      repo: kissyteam/feature
  - modulex-util:
@@ -107,8 +107,6 @@ projects:
      repo: kissyteam/base
  - modulex-attribute:
      repo: kissyteam/attribute
- - modulex-color:
-     repo: kissyteam/color
  - gulp-xtemplate
  - kclean
  - gulp-kclean

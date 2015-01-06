@@ -56,7 +56,7 @@
     "modulex": {
       "description": "A module registration and load library",
       "maintainer": "yiminghe",
-      "node": 0.1
+      "node": 0.11
     },
     "modulex-anim": {
       "description": "animation using timer and transition",
@@ -74,7 +74,7 @@
       "node": 0.11
     },
     "modulex-button": {
-      "description": "[![button](https://nodei.co/npm/modulex-button.png)](https://npmjs.org/package/modulex-button)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-button.svg)](https://npmjs.org/package/modulex-button)\r [![Build Status](https://secure.travis-ci.org/ki",
+      "description": "ui button",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -93,8 +93,13 @@
       "maintainer": "yiminghe",
       "node": 0.11
     },
+    "modulex-cookie": {
+      "description": "cookie manipulation",
+      "maintainer": "yiminghe",
+      "node": 0.11
+    },
     "modulex-css": {
-      "description": "css\r ===",
+      "description": "basic style css",
       "maintainer": "yiminghe"
     },
     "modulex-date-picker": {
@@ -103,7 +108,7 @@
       "node": 0.11
     },
     "modulex-dd": {
-      "description": "[![dd](https://nodei.co/npm/modulex-dd.png)](https://npmjs.org/package/modulex-dd)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-dd.svg)](https://npmjs.org/package/modulex-dd)\r [![Build Status](https://secure.travis-ci.org/kissyteam/dd.png?branc",
+      "description": "drag and drop utilities",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -113,7 +118,7 @@
       "node": 0.11
     },
     "modulex-editor": {
-      "description": "[![editor](https://nodei.co/npm/modulex-editor.png)](https://npmjs.org/package/modulex-editor)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-editor.svg)](https://npmjs.org/package/modulex-editor)\r [![Build Status](https://secure.travis-ci.org/ki",
+      "description": "ui editor core",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -137,7 +142,7 @@
       "node": 0.1
     },
     "modulex-filter-menu": {
-      "description": "[![filter-menu](https://nodei.co/npm/modulex-filter-menu.png)](https://npmjs.org/package/modulex-filter-menu)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-filter-menu.svg)](https://npmjs.org/package/modulex-filter-menu)\r [![Build Status](https:",
+      "description": "ui filter-menu",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -167,7 +172,7 @@
       "node": 0.11
     },
     "modulex-navigation-view": {
-      "description": "[![navigation-view](https://nodei.co/npm/modulex-navigation-view.png)](https://npmjs.org/package/modulex-navigation-view)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-navigation-view.svg)](https://npmjs.org/package/modulex-navigation-view)\r [![",
+      "description": "ui navigation-view",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -177,7 +182,7 @@
       "node": 0.11
     },
     "modulex-overlay": {
-      "description": "[![overlay](https://nodei.co/npm/modulex-overlay.png)](https://npmjs.org/package/modulex-overlay)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-overlay.svg)](https://npmjs.org/package/modulex-overlay)\r [![Build Status](https://secure.travis-ci.o",
+      "description": "ui overlay",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -207,17 +212,17 @@
       "node": 0.11
     },
     "modulex-scroll-view": {
-      "description": "[![scroll-view](https://nodei.co/npm/modulex-scroll-view.png)](https://npmjs.org/package/modulex-scroll-view)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-scroll-view.svg)](https://npmjs.org/package/modulex-scroll-view)\r [![Build Status](https:",
+      "description": "ui scroll-view",
       "maintainer": "yiminghe",
       "node": 0.11
     },
     "modulex-separator": {
-      "description": "[![separator](https://nodei.co/npm/modulex-separator.png)](https://npmjs.org/package/modulex-separator)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-separator.svg)](https://npmjs.org/package/modulex-separator)\r [![Build Status](https://secure.t",
+      "description": "ui separator",
       "maintainer": "yiminghe",
       "node": 0.11
     },
     "modulex-split-button": {
-      "description": "[![split-button](https://nodei.co/npm/modulex-split-button.png)](https://npmjs.org/package/modulex-split-button)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-split-button.svg)](https://npmjs.org/package/modulex-split-button)\r [![Build Status](h",
+      "description": "ui split-button",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -232,11 +237,12 @@
       "node": 0.11
     },
     "modulex-tabs": {
-      "description": "[![tabs](https://nodei.co/npm/modulex-tabs.png)](https://npmjs.org/package/modulex-tabs)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-tabs.svg)](https://npmjs.org/package/modulex-tabs)\r [![Build Status](https://secure.travis-ci.org/kissyteam/ta",
-      "maintainer": "yiminghe"
+      "description": "ui tabs",
+      "maintainer": "yiminghe",
+      "node": 0.11
     },
     "modulex-toolbar": {
-      "description": "[![toolbar](https://nodei.co/npm/modulex-toolbar.png)](https://npmjs.org/package/modulex-toolbar)\r [![NPM downloads](http://img.shields.io/npm/dm/modulex-toolbar.svg)](https://npmjs.org/package/modulex-toolbar)\r [![Build Status](https://secure.travis-ci.o",
+      "description": "ui toolbar",
       "maintainer": "yiminghe",
       "node": 0.11
     },
@@ -256,9 +262,9 @@
       "node": 0.1
     },
     "modulex-util": {
-      "description": "common utilities",
+      "description": "---",
       "maintainer": "yiminghe",
-      "node": 0.1
+      "node": 0.11
     },
     "query-selector": {
       "description": "querySelectorAll in javascript",
@@ -266,7 +272,7 @@
       "node": 0.1
     },
     "xtemplate": {
-      "description": "[High Speed](https://github.com/kissyteam/xtemplate/tree/master/benchmark/result), eXtensible Template Engine lib on browser and nodejs.\r support async control, inheritance, include, logic expression, custom function and more.",
+      "description": "High Speed, eXtensible Template Engine lib on browser and nodejs. support async control, inheritance, include, logic expression, custom function and more.",
       "maintainer": "yiminghe",
       "node": 0.11
     },
